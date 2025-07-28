@@ -84,6 +84,17 @@ section {
     grid-row: 2;
     background-color: #bfbfbf;
 }
+.katt-bild {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.katt-bild img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 footer {
     background-color: #bfbfbf;
     text-align: center;
